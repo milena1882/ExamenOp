@@ -162,6 +162,14 @@ body{
         font-family: 'EB Garamond', serif;
         font-size: 20px;
       }
+      #shop{
+        text-align: center;
+      }
+      #bookshop{
+        background-color: #f8b857;
+        height:900px;
+        text-align: center;
+      }
       #tar{
         font-family: 'Assistant', sans-serif;
       }
